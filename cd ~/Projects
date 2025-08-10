@@ -1,1 +1,6 @@
+# Create a super simple web page
+echo "<!doctype html><title>KinderCode</title><h1>Hello, Shine!</h1>" > index.html
 
+git add index.html
+git commit -m "feat: initial tiny project"
+git push origin main
