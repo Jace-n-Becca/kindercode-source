@@ -1,0 +1,1 @@
+echo "<!doctype html><title>KinderCode</title><h1>Hello, Shine!</h1>" > index.html
